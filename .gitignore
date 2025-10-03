@@ -1,0 +1,5 @@
+mini_fsmini_fs
+*.o
+*.obj
+*.exe
+.DS_Store
